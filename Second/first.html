@@ -1,0 +1,72 @@
+<!--
+    HTML = HyperText Markup Language - Osso do documento
+    Isso entre setinhas é um comentário
+-->
+
+<!-- Anatomia de Tags -->
+<h1>
+    Titulo, maior de todos <!-- conteudo da tag -->
+</h1> <!-- Tag são essas coisas < /> -->
+
+<!-- Elementos vazios -->
+<img src="" alt=""> <!-- recebe valores porém não tem fechamento-->
+
+
+<!-- Atributos extras -->
+<img src="" alt="Texto"> <!-- São as info extras contidas na tag, tipo o ALT-->
+<input type="text" disabled> <!-- input desabilitado -->
+
+<!-- Aspas -->
+<a href="http://google.com" title="this isn't">Link</a> <!-- Tomar cuidado com a colocação das aspas, pode dar erro-->
+
+<!-- 
+    Atributos globais
+    aplicaveis a todas as tags
+        - class -> estilos css, e JS
+        - contenteditable -> conteudo editavel
+        - data-* -> muito utilizado no JS, tipos de att no HTML
+        - hidden -> esconde a tag
+        - id -> pode usar 1 por página, usa tbm no CSS e JS
+        - style -> ja aplicar estilização no HTML
+        - tabindex -> usar tab, para acessibilidade no site
+        - title -> define um titulo na tag
+-->
+<div class="class" contenteditable="true" style="color: red;">
+    Conteúdo
+</div>
+
+<div class="class" data-qualquernomeaqui="">
+    Conteúdo
+</div>
+
+<div class="class" hidden>
+    Conteúdo
+</div>
+
+
+<div tabindex="1">
+    Usando Tab
+</div>
+
+<div title="define titulo" tabindex="2">
+    Usando Tab
+</div>
+
+
+<!-- Aninhamento de Tags -->
+<p>
+    vou <em>escrever</em> um paragraph <!-- empase no escrever, aninhado -->
+</p> <!-- tomar cuidado com o fechamento das tags -->
+<p>
+    Esse é um texto <br> <!-- BR quebra linhas (line break) -->
+    Esse é outro texto
+</p> <!-- algumas tags ficaram em linha e outras irão quebrar a linha-->
+<p> quebra <br> de linhas... </p>
+
+
+
+
+
+<!--
+    Continuação no proximo arquivo HTML -> -> -> ->
+-->
