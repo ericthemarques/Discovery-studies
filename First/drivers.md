@@ -1,0 +1,1 @@
+- um tipo de software que tem como trabalho conectar um componente eletronico conectado no computador com o software do computador

@@ -1,0 +1,2 @@
+- Software = Programa de computador
+- Program = Aplicativo

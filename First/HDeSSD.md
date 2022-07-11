@@ -1,0 +1,2 @@
+- Ambos são dispositivos de armazenamento de dados
+- a unica diferença é o formato e a capacidade de armazenamento dos 2 como um exemplo, o HD tem mais armazenamento.

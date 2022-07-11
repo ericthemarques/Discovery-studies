@@ -1,0 +1,2 @@
+- é um tipo de software, com função de estar nos componentes eletronicos para ele funcionar corretamente.
+- um exemplo é o software do Mouse, teclado e etc.

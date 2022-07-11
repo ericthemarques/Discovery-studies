@@ -1,0 +1,2 @@
+- parte lógica do computador, algo que não conseguimos tocar em um computador, o digital, um exemplo é o navegador, jogos, apps e outras coisas.
+- conjunto de instruções em um unico programa.

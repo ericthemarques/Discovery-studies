@@ -1,0 +1,2 @@
+- Conhecido como o Cérebro do computador.
+- Transforma as informações em linguagem de computador (binário).

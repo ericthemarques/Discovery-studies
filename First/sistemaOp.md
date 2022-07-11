@@ -1,0 +1,2 @@
+- Sistemas operacionais tem como trabalho gerenciar todos os softares instalados e gerenciamento de hardwares do computador
+- quanto o software vai usar de RAM, entre outros, ele é tipo a mãe do computador.
