@@ -1,5 +1,5 @@
 # Discovery studies
-Rocketseat Discovery program where there is always another level...
+Rocketseat Discovery program where there is always another level to achieve for...
 
 this repo is for study purposes
 
